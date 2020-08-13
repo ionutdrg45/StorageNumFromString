@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548957109 source:d:\informatica\skins_samp\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
+1548964139 source:d:\codes\informatica\skins_samp\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
